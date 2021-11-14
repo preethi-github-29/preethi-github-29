@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @preethi-github-29
 - 👀 I’m interested in electronics
--- 💞️ I’m looking to collaborate on research on edc
+-- �I’m looking to collaborate on research on edc
 - 📫 How to reach me preethibudi@gmail.com
 
 <!---
